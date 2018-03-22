@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+image: img/self.jpg
 subtitle:A Gator and A Cardinal
 ---
 
