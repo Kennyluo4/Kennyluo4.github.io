@@ -1,7 +1,7 @@
 ---
 layout: Page
 title: About me
-bigimg: /img/self.jpg
+image: /img/self.jpg
 ---
 
 
