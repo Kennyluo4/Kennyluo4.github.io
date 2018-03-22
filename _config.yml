@@ -27,6 +27,7 @@ navbar-links:
     - LiaoXuefeng: "https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000"
     - 10min to pandas: "http://pandas.pydata.org/pandas-docs/stable/10min.html"
     - Pandas Cookbook: "http://pandas.pydata.org/pandas-docs/stable/cookbook.html#cookbook"
+    - Runoob: "http://www.runoob.com/python/python-tutorial.html"
   Peanut database:
     - PeanutBase(US genome): "https://peanutbase.org/home"
     - PeanutGenomeResource: "http://59.79.248.25/~Peanut_GR/Temporarily_unavailable_for_time.php"
