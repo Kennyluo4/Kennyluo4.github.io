@@ -10,4 +10,7 @@ E-mail: kennyluo4@gmail.com
 
 - I'm interested in Biological Nitrogen fixation System in legume species. Study on BNF genetics could facilitate transfering this magic power to food crops, which will greatly reduce the chemical input into field and environment.
 - Super interested in bioinformatics.
-- I love Broadway musicals, American football, dogs, nature.
+- I love Broadway musicals, SouthPark, American football, dogs, nature.
+
+
+
