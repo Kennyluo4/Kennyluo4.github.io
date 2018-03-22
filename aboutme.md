@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dev Paudel
+title: Ziliang Luo
 subtitle: PhD Candidate, University of Florida
 #image: /img/self.jpg
 ---
