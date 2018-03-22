@@ -23,7 +23,7 @@ description: Genetics study on peanut nodulation
 
 # List of links in the navigation bar
 navbar-links:
-  PythonTuturial:
+  Python Tuturial:
     - LiaoXuefeng: "https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000"
     - 10min to pandas: "http://pandas.pydata.org/pandas-docs/stable/10min.html"
     - Pandas Cookbook: "http://pandas.pydata.org/pandas-docs/stable/cookbook.html#cookbook"
