@@ -1,9 +1,9 @@
 ---
 layout: Page
 title: About me
-bigimg: /img/self.jpg
 ---
 
+image: /img/self.jpg
 
 My name is Ziliang Luo
 Currently a Ph.D. student at Agronomy Department of University of Florida
