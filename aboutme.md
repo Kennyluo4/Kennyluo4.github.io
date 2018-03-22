@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Gators and Cardinals Nation
+subtitle:A Gator and A Cardinal
 ---
 
 My name is Ziliang Luo
