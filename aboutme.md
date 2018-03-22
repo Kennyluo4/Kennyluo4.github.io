@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: Page
 title: About me
 bigimg: /img/self.jpg
-subtitle:A Gator and A Cardinal
 ---
+
 
 My name is Ziliang Luo
 Currently a Ph.D. student at Agronomy Department of University of Florida
