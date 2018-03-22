@@ -23,7 +23,6 @@ description: Genetics study on peanut nodulation
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
   PythonTuturial:
     - LiaoXuefeng: "https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000"
     - 10min to pandas: "http://pandas.pydata.org/pandas-docs/stable/10min.html"
@@ -37,7 +36,7 @@ navbar-links:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
     - Jekyll's home: "http://deanattali.com"
-
+  Contact: "aboutme"
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/peanut_genome.jpg"
