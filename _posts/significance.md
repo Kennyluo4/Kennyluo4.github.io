@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 Title: Significance of legume symbiotic nitrogen fixation
 author: Ziliang Luo
 tags:[symbiosis]
