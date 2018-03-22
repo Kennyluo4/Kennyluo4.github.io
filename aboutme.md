@@ -1,9 +1,10 @@
 ---
-layout: Page
-title: Ziliang Luo
+layout: page
+title: Dev Paudel
+subtitle: PhD Candidate, University of Florida
+#image: /img/self.jpg
 ---
 
-#image: /img/self.jpg
 
 My name is Ziliang Luo
 Currently a Ph.D. student at Agronomy Department of University of Florida
