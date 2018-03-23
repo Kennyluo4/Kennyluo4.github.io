@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ziliang Luo
-subtitle: PhD Candidate, University of Florida
+subtitle: University of Florida
 image: /img/self2.jpg
 ---
 
