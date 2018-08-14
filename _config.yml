@@ -17,7 +17,7 @@ baseurl: ""
 title: Ziliang Luo
 
 # Short description of your site
-description: Genetics study place on peanut nodulation
+description: A place of fun
 
 # --- Navigation bar options --- #
 
@@ -50,7 +50,7 @@ title-img: "/img/peanut_genome.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "##bc581a"
+navbar-col: "#bc581a"
 navbar-text-col: "#FFFFFF"
 navbar-children-col: "#F5F5F5"
 page-col: "#58CAEC"
