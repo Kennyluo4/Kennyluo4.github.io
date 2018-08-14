@@ -23,6 +23,7 @@ description: A place of fun
 
 # List of links in the navigation bar
 navbar-links:
+  Blogs: blog
   Python Tuturial:
     - LiaoXuefeng: "https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000"
     - 10min to pandas: "http://pandas.pydata.org/pandas-docs/stable/10min.html"
@@ -50,10 +51,10 @@ title-img: "/img/peanut_genome.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#BC581A"
+navbar-col: "#00529b"
 navbar-text-col: "#FFFFFF"
 navbar-children-col: "#F5F5F5"
-page-col: "#58CAEC"
+page-col: "#62DA72"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
