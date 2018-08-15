@@ -6,14 +6,17 @@ image: /img/self2.jpg
 ---
 
 
-My name is Ziliang Luo
+Hi, I'm Ziliang Luo  
 Currently a Ph.D. student at Agronomy Department of University of Florida
 
-E-mail: kennyluo4@gmail.com
+**E-mail**: kennyluo4@gmail.com
 
 
+**Education**
 
+* Huazhong Agricultural University, Plant science and technology, 2010-2014, Bachelor  
+* Universiy of Florida, Agronomy, 2017-present, in pursuit of PhD
 
-- I'm interested in Biological Nitrogen fixation System in legume species. Study on BNF genetics could facilitate transfering this magic power to food crops, which will greatly reduce the chemical input into field and environment.
-- Super interested in bioinformatics.
-- I love Broadway musicals, SouthPark, American football, dogs, nature.
+**Working Experience**
+National key laboratory of crop improvement, Research assistant, 2014-2015
+Shanghai OE biotech, bioinformatic analyst, 2015-2017
