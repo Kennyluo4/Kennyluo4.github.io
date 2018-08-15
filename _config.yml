@@ -50,8 +50,8 @@ avatar: "/img/peanut_genome.jpg"
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
-
-navbar-col: "#E28F41"
+#E28F41
+navbar-col: "#FA4616"
 navbar-text-col: "#00529b"
 navbar-children-col: "#F5F5F5"
 page-col: "#F9F9F9"
