@@ -9,6 +9,9 @@ image: /img/self2.jpg
 Hi, I'm Ziliang Luo  
 Currently a Ph.D. student at Agronomy Department of University of Florida
 
+I like dogs, football, and kayaking
+
+
 **E-mail**: kennyluo4@gmail.com
 
 
