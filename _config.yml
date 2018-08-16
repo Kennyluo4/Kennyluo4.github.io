@@ -129,10 +129,10 @@ url-pretty: "Kennyluo4.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "disqus_LsSrsQ7z0A"
 
 # Facebook App ID
-# fb_app_id: ""
+ fb_app_id: "Ziliang Luo"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
