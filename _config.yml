@@ -82,7 +82,7 @@ author:
 social-network-links:
   rss: true
   email: "kennyluo4@gmail.com"
-  facebook: Ziliang Luo
+  facebook: ZiliangLuo
   github: Kennyluo4
   twitter: kennyluo4
 #  reddit: yourname
@@ -113,7 +113,7 @@ url-pretty: "Kennyluo4.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-124121510-1"
 
 # Google Tag Manager ID
 #gtm: ""
