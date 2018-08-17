@@ -51,7 +51,7 @@ avatar: "/img/peanut_genome.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 #E28F41
-navbar-col: "#E28F41"
+navbar-col: "#FA4616"
 navbar-text-col: "#00529b"
 navbar-children-col: "#F5F5F5"
 page-col: "#F9F9F9"
@@ -113,7 +113,7 @@ url-pretty: "Kennyluo4.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "UA-124121510-1"
+#google_analytics: ""
 
 # Google Tag Manager ID
 #gtm: ""
@@ -129,10 +129,10 @@ url-pretty: "Kennyluo4.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: "disqus_LsSrsQ7z0A"
+#disqus: ""
 
 # Facebook App ID
- fb_app_id: "Ziliang Luo"
+# fb_app_id: ""
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
@@ -246,4 +246,4 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
-#permalink: /blog/:year/:month/:day/:title
+permalink: /blog/:year/:month/:day/:title
