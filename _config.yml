@@ -129,7 +129,7 @@ google_analytics: "UA-124121510-1"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "disqus_LsSrsQ7z0A"
+#disqus: "disqus_LsSrsQ7z0A"
 
 # Facebook App ID
  fb_app_id: "Ziliang Luo"
@@ -246,4 +246,4 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
-permalink: /blog/:year/:month/:day/:title
+#permalink: /blog/:year/:month/:day/:title
