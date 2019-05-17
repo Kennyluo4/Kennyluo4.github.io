@@ -14,24 +14,25 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Ziliang Luo
+title: My_git_LZL
 
 # Short description of your site
-description: path to bioinformatics
+description: be good, do right
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   Blogs: blog
-#  Python Tuturial:
-#    - LiaoXuefeng: "https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000"
-#    - 10min to pandas: "http://pandas.pydata.org/pandas-docs/stable/10min.html"
+  StudySource:
+    - Python by Liao: "https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000"
+    - 10min to pandas: "http://pandas.pydata.org/pandas-docs/stable/10min.html"
+    - R for biostat: "http://rcompanion.org/handbook/"
 #    - Pandas Cookbook: "http://pandas.pydata.org/pandas-docs/stable/cookbook.html#cookbook"
 #    - Runoob: "http://www.runoob.com/python/python-tutorial.html"
-  PeanutDB:
+  Database:
     - PeanutBase(US genome): "https://peanutbase.org/home"
-    - PeanutGenomeResource: "http://59.79.248.25/~Peanut_GR/Temporarily_unavailable_for_time.php"
+    - PeanutGenomeResource: "http://peanutgr.fafu.edu.cn/"
     - PeanutDB: "http://bioinfolab.muohio.edu/txid3818v1/"
  # Resource:
  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -114,7 +115,7 @@ url-pretty: "Kennyluo4.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-124121510-1"
+# google_analytics: "UA-124121510-1"
 
 # Google Tag Manager ID
 #gtm: ""
