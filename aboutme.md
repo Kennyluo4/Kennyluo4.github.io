@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Kenny
-image: /img/self2.jpg
 ---
 
 
