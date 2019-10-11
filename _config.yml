@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Ziliang page
+title: Kenny page
 
 # Short description of your site
 description: be good, do right
@@ -75,7 +75,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Ziliang Luo
+  name: Kenny
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -83,13 +83,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 # rss: true
-  email: "kennyluo4@gmail.com"
-#  facebook: ZiliangLuo
+# email: "kennyluo4@gmail.com"
+# facebook: ZiliangLuo
   github: Kennyluo4
 #  twitter: kennyluo4
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: Ziliang Luo
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
