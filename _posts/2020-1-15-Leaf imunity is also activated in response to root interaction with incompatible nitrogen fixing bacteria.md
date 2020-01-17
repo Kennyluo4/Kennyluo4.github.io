@@ -1,3 +1,7 @@
+---
+layout: post
+title: Leaf imunity is also activated in response to root interaction with incompatible nitrogen fixing bacteria
+---
 
 **The interaction with soild bacteria is not only limited to plant roots. Foliar immunity system is also involved. Compond synthesized in leaves is transport to root
 *Glycerol-3-phosphate (G3P) is a well-known mobile regulator of systemic acquired resistance (SAR)
